@@ -1,12 +1,10 @@
 {
   "db": {
-    "host": "127.0.0.1",
-    "port": 27017,
-    "url": "",
-    "database": "meetup",
-    "password": "",
-    "name": "db",
-    "user": "",
-    "connector": "mongodb"
+    "connector": "mongodb",
+    "host": "ds247688.mlab.com",
+    "port": 47688,
+    "database": "cp2rest",
+    "username": "moominplush",
+    "password": "moominplush2018"
   }
 }
